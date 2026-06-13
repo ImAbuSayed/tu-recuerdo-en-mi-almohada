@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Tu recuerdo en mi almohada
+
+This log tracks the cryptographic history and versioning for the song **Tu recuerdo en mi almohada** (tu-recuerdo-en-mi-almohada).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-14T05:23:08.459440 | `v1` | `4d3be09abbf3db7633641c3fea8f209ca45dde3cf6685bc83b51080d624cea05` | `a4674b0037700d233b81ce212d057b82e08264c0f7d70835ef46ecf4538ef011` | `2026-06-14_tu-recuerdo-en-mi-almohada-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
